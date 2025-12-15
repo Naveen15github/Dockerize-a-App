@@ -7,7 +7,7 @@ All application logic, Docker configuration, and runtime testing were **designed
 
 ---
 
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Gemini_Generated_Image_3nbrj03nbrj03nbr.png)
 
 
 ## 📌 Project Highlights
@@ -138,11 +138,11 @@ docker run -p 8501:8501 -e GROQ_API_KEY=your_groq_api_key_here groq-chat-app
 
 Once the container starts, the chat interface will be accessible via the exposed port.
 
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Screenshot%20(227).png)
 
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Screenshot%20(228).png)
 
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Screenshot%20(229).png)
 
 ---
 
@@ -150,11 +150,9 @@ Once the container starts, the chat interface will be accessible via the exposed
 
 I personally tested this application by:
 
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Screenshot%20(230).png)
 
-![Image](image.png)
-
-![Image](image.png)
+![Image](https://github.com/Naveen15github/Dockerized-Groq-AI-Chat-App/blob/567ee3d292283b9b898de5809556a39efed64849/Screenshot%20(231).png)
 
 
 * Running it locally and inside Docker
