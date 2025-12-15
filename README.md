@@ -7,6 +7,9 @@ All application logic, Docker configuration, and runtime testing were **designed
 
 ---
 
+![Image](image.png)
+
+
 ## 📌 Project Highlights
 
 - Groq-powered AI chat using LLM inference
@@ -155,11 +158,24 @@ docker run -p 8501:8501 -e GROQ_API_KEY=your_groq_api_key_here groq-chat-app
 
 Once the container starts, the chat interface will be accessible via the exposed port.
 
+![Image](image.png)
+
+![Image](image.png)
+
+![Image](image.png)
+
 ---
 
 ## 🧪 Testing & Validation
 
 I personally tested this application by:
+
+![Image](image.png)
+
+![Image](image.png)
+
+![Image](image.png)
+
 
 * Running it locally and inside Docker
 * Validating Groq API responses
